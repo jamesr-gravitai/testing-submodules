@@ -4,4 +4,6 @@ export enum Gender_Enum {
   DeclineToSpecify = 'Decline to Specify',
   Other = 'Other',
   New = 'New',
+  New1 = 'New1',
+  New2 = 'New2',
 }
