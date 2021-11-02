@@ -4,3 +4,7 @@ export const FIELD_NAME = {
     Label: 'Gender',
   },
 };
+
+export enum Field_Name_Enum {
+  GENDER= 'Gender'
+}
