@@ -1,3 +1,6 @@
-export enum FIELD_NAME {
-    GENDER = 'Gender'
+export const FIELD_NAME  = {
+  GENDER: {
+    Name: 'gender',
+    Label: 'Gender'
+  },
 }
